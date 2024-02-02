@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mansy</h1>
 <h3 align="center">A Junior Full Stack Developer</h3>
 
-- 🔭 I’m currently working on [Picturate.me](http://picturate.me/)
 
-- 🌱 I’m currently learning **Php, Laravel, WebSocket**
+- 🌱 I’m currently learning **Php, Laravel, Bash**
 
 - 💬 Ask me about **HTML,CSS,JS,Laravel**
 
