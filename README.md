@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mansy</h1>
-<h3 align="center">A Senior Full Stack Developer</h3>
+<h3 align="center">Senior Full Stack Developer</h3>
 
 
-- 🌱 I’m currently learning **Php, Laravel, Bash**
-
-- 💬 Ask me about **HTML,CSS,JS,Laravel**
+- 🌱 I’m currently learning ** React **
 
 - 📫 How to reach me **mohamedmansy855@gmail.com**
 
