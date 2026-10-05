@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Mansy</h1>
 <h3 align="center">Senior Full Stack Developer</h3>
 
-
-- 🌱 I’m currently learning ** React **
-
 - 📫 How to reach me **mohamedmansy855@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
